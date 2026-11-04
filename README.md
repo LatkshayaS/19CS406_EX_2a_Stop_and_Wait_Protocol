@@ -53,7 +53,7 @@ s.close()
 ### SERVER:
 ![EX_2A_STOP AND WAIT PROTOCAL](SERVER.png)
 ### CLIENT
-[EX_2A_STOP AND WAIT PROTOCAL](CLIENT.png)
+[EX_2A_CLIENT](CLIENT.png)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
